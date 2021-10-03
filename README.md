@@ -1,5 +1,9 @@
 # Computer-VIsion
 This repository contains the guided project on object detection using OpenCV
+
+
+  
+  
   
 This repository contains Jupyter Notebook for the following purpose:
  ## Detect Faces
@@ -19,15 +23,23 @@ This repository contains Jupyter Notebook for the following purpose:
  | ![image](https://user-images.githubusercontent.com/39759685/135742683-a0219b1b-ca18-4fac-91e5-6757bf56da89.png) | ![image](https://user-images.githubusercontent.com/39759685/135742822-52626eb7-fd7b-492b-95d3-911ce83b1c90.png) |
 
 
-  - Detect People Walking and Cars Moving from Videos
+  
 
  ## Detect a Car's Plate from Images
  | Original Image | Results |
  | -------------- | ------- |
  | ![image](https://user-images.githubusercontent.com/39759685/135742862-5ad3e215-4af9-4cc6-81d1-a6a802d459aa.png) | ![image](https://user-images.githubusercontent.com/39759685/135742870-4f1f539e-b4d6-4ee8-b8c7-1cd094b28569.png) |
  
+ ## Detect Cars from Videos
  
- 
-<figure class="video_container">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6714584558727110656" height="601" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</figure>
+<iframe 
+        src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6714584558727110656?compact=1" 
+        height="284" 
+        width="504" 
+        frameborder="0" 
+        allowfullscreen="" 
+        title="Embedded post">
+</iframe>  
+
+
+
